@@ -1,3 +1,3 @@
-# Hello, I'm joti Shaha.
+# Hello, I'm Joti Shaha.
 
 This repository is my protfolio website information 
